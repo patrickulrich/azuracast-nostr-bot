@@ -1,0 +1,15 @@
+{
+    "name": "azuracast-nostr-bot",
+    "version": "1.0.0",
+    "description": "AzuraCast Nostr Bot broadcasts AzuraCast's 'Now Playing' information to a set of Nostr relays in real-time.",
+    "main": "anb.js",
+    "scripts": {
+      "start": "node anb.js"
+    },
+    "dependencies": {
+      "nostr-tools": "^1.0.3"
+    },
+    "author": "Patrick Ulrich",
+    "license": "MIT"
+  }
+  
